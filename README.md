@@ -3,8 +3,6 @@
 Welcome to the Tech Resources Hub repository!
 This curated collection serves as a centralized hub for various tech-related resources, offering valuable links to enhance your knowledge and skills in the ever-evolving world of technology.
 
-## Index
-
 ### Programming
 1. [pro-g-ramming_challenges - catsmells](https://github.com/catsmells/pro-g-ramming_challenges)
 
