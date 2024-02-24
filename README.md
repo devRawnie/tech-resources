@@ -14,5 +14,8 @@ This curated collection serves as a centralized hub for various tech-related res
 1. [gsoc-proposals-archive - Google-Summer-of-Code-Archive](https://github.com/Google-Summer-of-Code-Archive/gsoc-proposals-archive)
 2. [Google Summer of Code Proposals - shubhank-saxena](https://github.com/shubhank-saxena/gsoc-proposals)
 
-### Interview Questions
+### Interviews
 1. [Back-End Developer Interview Questions - arialdomartini](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+
+### Machine Learning
+1. [MIT 6.S191: Introduction to Deep Learning - YouTube Playlist](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
