@@ -19,3 +19,6 @@ This curated collection serves as a centralized hub for various tech-related res
 
 ### Machine Learning
 1. [MIT 6.S191: Introduction to Deep Learning - YouTube Playlist](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+
+### Python
+1. [Python Edube Course Notes - devRawnie](https://github.com/devRawnie/python-notes-edube/pull/5)
