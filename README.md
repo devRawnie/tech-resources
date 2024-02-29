@@ -11,6 +11,7 @@ This curated collection serves as a centralized hub for various tech-related res
 - [Interviews](#interviews)
 - [Machine Learning](#machine-learning)
 - [Python](#python)
+- [Tools](#tools)
 
 ### Programming
 1. [pro-g-ramming_challenges - catsmells](https://github.com/catsmells/pro-g-ramming_challenges)
@@ -33,5 +34,5 @@ This curated collection serves as a centralized hub for various tech-related res
 ### Python
 1. [Python Edube Course Notes - devRawnie](https://github.com/devRawnie/python-notes-edube/pull/5)
 
-
-
+### Tools
+1. [Hashicorp Vault, Series by Yiğit İrez](https://irezyigit.medium.com/vault-from-ground-up-4ee68a4db3ca)
