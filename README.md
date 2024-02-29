@@ -1,7 +1,17 @@
-### Tech Resources Hub
+# Tech Resources Hub
 
 Welcome to the Tech Resources Hub repository!
 This curated collection serves as a centralized hub for various tech-related resources, offering valuable links to enhance your knowledge and skills in the ever-evolving world of technology.
+
+## Index
+
+- [Programming](###-programming)
+- [System Design](###-system-design)
+- [Google Summer of Code](###-google-summer-of-code)
+- [Interviews](###-interviews)
+- [Machine Learning](###-machine-learning)
+- [Python](###-python)
+- [Misc](###-misc)
 
 ### Programming
 1. [pro-g-ramming_challenges - catsmells](https://github.com/catsmells/pro-g-ramming_challenges)
@@ -22,3 +32,6 @@ This curated collection serves as a centralized hub for various tech-related res
 
 ### Python
 1. [Python Edube Course Notes - devRawnie](https://github.com/devRawnie/python-notes-edube/pull/5)
+
+### Misc
+1. [CAP Theorem: Tech Dive](https://blog.quastor.org/p/tech-dive-cap-theorem-bd75)
