@@ -11,7 +11,6 @@ This curated collection serves as a centralized hub for various tech-related res
 - [Interviews](#interviews)
 - [Machine Learning](#machine-learning)
 - [Python](#python)
-- [Misc](#misc)
 
 ### Programming
 1. [pro-g-ramming_challenges - catsmells](https://github.com/catsmells/pro-g-ramming_challenges)
@@ -19,6 +18,7 @@ This curated collection serves as a centralized hub for various tech-related res
 ### System Design
 1. [Awesome System Design Resources - ashishps1](https://github.com/ashishps1/awesome-system-design-resources)
 2. [The System Design Primer - donnemartin](https://github.com/donnemartin/system-design-primer)
+3. [Distributed Systems - Lecture Series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 
 ### Google Summer of Code
 1. [gsoc-proposals-archive - Google-Summer-of-Code-Archive](https://github.com/Google-Summer-of-Code-Archive/gsoc-proposals-archive)
@@ -33,4 +33,5 @@ This curated collection serves as a centralized hub for various tech-related res
 ### Python
 1. [Python Edube Course Notes - devRawnie](https://github.com/devRawnie/python-notes-edube/pull/5)
 
-### Misc
+
+
