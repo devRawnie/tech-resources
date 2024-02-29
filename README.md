@@ -5,13 +5,13 @@ This curated collection serves as a centralized hub for various tech-related res
 
 ## Index
 
-- [Programming](###-programming)
-- [System Design](###-system-design)
-- [Google Summer of Code](###-google-summer-of-code)
-- [Interviews](###-interviews)
-- [Machine Learning](###-machine-learning)
-- [Python](###-python)
-- [Misc](###-misc)
+- [Programming](#programming)
+- [System Design](#system-design)
+- [Google Summer of Code](#google-summer-of-code)
+- [Interviews](#interviews)
+- [Machine Learning](#machine-learning)
+- [Python](#python)
+- [Misc](#misc)
 
 ### Programming
 1. [pro-g-ramming_challenges - catsmells](https://github.com/catsmells/pro-g-ramming_challenges)
