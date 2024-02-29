@@ -34,4 +34,3 @@ This curated collection serves as a centralized hub for various tech-related res
 1. [Python Edube Course Notes - devRawnie](https://github.com/devRawnie/python-notes-edube/pull/5)
 
 ### Misc
-1. [CAP Theorem: Tech Dive](https://blog.quastor.org/p/tech-dive-cap-theorem-bd75)
