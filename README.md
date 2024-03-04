@@ -35,7 +35,8 @@ This curated collection serves as a centralized hub for various tech-related res
 1. [Python Edube Course Notes - devRawnie](https://github.com/devRawnie/python-notes-edube/pull/5)
 
 ### Tools
-1.[Git Internals - Mediocregopher](https://mediocregopher.com/posts/git-proxy)
+
+1. [Git Internals - Mediocregopher](https://mediocregopher.com/posts/git-proxy)
 2. [Hashicorp Vault, Series by Yiğit İrez](https://irezyigit.medium.com/vault-from-ground-up-4ee68a4db3ca)
 3. [Regex in JS - freeCodeCamp](https://www.freecodecamp.org/news/regex-in-javascript/?ref=dailydev)
 4. [Install MS Office using Deployment Tool](https://www.youtube.com/watch?v=Tq03Q-O7py4)
