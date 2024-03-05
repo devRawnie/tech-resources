@@ -15,6 +15,7 @@ This curated collection serves as a centralized hub for various tech-related res
 
 ### Programming
 1. [pro-g-ramming_challenges - catsmells](https://github.com/catsmells/pro-g-ramming_challenges)
+2. [Spiral Syntax in C - David Anderson](https://c-faq.com/decl/spiral.anderson.html)
 
 ### System Design
 1. [Awesome System Design Resources - ashishps1](https://github.com/ashishps1/awesome-system-design-resources)
