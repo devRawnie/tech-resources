@@ -34,6 +34,7 @@ This curated collection serves as a centralized hub for various tech-related res
 
 ### Python
 1. [Python Edube Course Notes - devRawnie](https://github.com/devRawnie/python-notes-edube/pull/5)
+2. [Edube - Python](https://edube.org/)
 
 ### Tools
 
